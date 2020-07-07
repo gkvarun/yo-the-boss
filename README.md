@@ -1,5 +1,5 @@
 # sanju
-<!doctype html>
+
 <html>
 <head>
 
@@ -16,7 +16,7 @@ text-shadow:2px 2px #898080,4px 4px #B1AEAE,6px 6px #C3C8D6
 }
 </style>
 
-</script>
+
 
 </head>
 <body>
