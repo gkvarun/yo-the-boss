@@ -151,7 +151,7 @@ Patient response to treatment is monitored and the program or facility offers ou
 
 <br>
 
-<a href="#" font-family:agency fb; font-size:10px;">go up</a>
+<a href="#">go up</a>
 
 </body>
 </html>                                                               
