@@ -1,5 +1,3 @@
-# sanju
-
 <html>
 <head>
 
@@ -39,8 +37,6 @@ pre{ background-color:#CEE3F6; margin:10px; padding:30px; }
 </style>
 </center>
 <center>
-
-<img src="addictions.png">
 
 </center>
 <pre>
@@ -158,4 +154,4 @@ Patient response to treatment is monitored and the program or facility offers ou
 <a href="#" font-family:agency fb; font-size:10px;">go up</a>
 
 </body>
-</html>                                                               \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+</html>                                                               
