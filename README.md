@@ -147,6 +147,6 @@ The facility maintains a respectful environment.
 Treatment services are evidence-based and reflect best practices.
 Staff members are licensed and certified in the disciplines they practice.
 The program is accredited by a nationally recognized monitoring agency.
-Patient response to treatment is monitored and the program or facility offers outcome data reflecting treatment performance.</p>
+Patient response to treatment is monitored and the program or facility offers outcome data reflecting treatment performance</p>
 
                                                              
